@@ -13,7 +13,7 @@ export const SocialLinks = () => {
 					<FaLinkedin size={30} />
 				</>
 			),
-			href: "https://www.linkedin.com/in/tremainecousar/",
+			href: "https://www.linkedin.com/in/tremaine-cousar-3192b5317/",
 			style: "rounded-tr-md",
 		},
 		{
