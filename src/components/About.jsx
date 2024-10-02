@@ -15,14 +15,14 @@ const About = () => {
             </div> 
 
             <p className=' text-xl'>
-              Hello, I'm Tremaine Cousar, a dedicated and ambitious software developer from Greensboro. I am currently pursuing a degree in Computer Science at Chapel Hill through the C-STEP program. As an African American student, I take pride in breaking barriers and setting new standards in the tech industry. Over the past two years, I have immersed myself in the world of coding, developing a deep passion for creating innovative solutions and enhancing user experiences. My journey in software development has been driven by hard work, motivation, and a relentless pursuit of excellence.
+              Hello, I'm Tremaine Cousar, a dedicated and ambitious software developer from Greensboro, NC. I am currently pursuing a Bachelor's degree in Computer Science at the University of North Carolina Chapel Hill. As an African American student, I take pride in breaking barriers and setting new standards in the tech industry. Over the past two years, I have immersed myself in the world of coding, developing a deep passion for creating innovative solutions and enhancing user experiences. My journey in software development has been driven by hard work, motivation, and a relentless pursuit of excellence.
 
             </p>
            
             <br />
 
             <p className='text-xl'>
-              In my two years of coding, I have gained expertise in a wide range of technologies, including React, JavaScript, Next.js, HTML, CSS, Tailwind, Bootstrap, REST API, Node.js, Prisma, and JSON. I have successfully completed numerous projects that showcase my skills and dedication to quality. My accomplishments include developing dynamic web applications, creating responsive and user-friendly interfaces, and implementing efficient back-end solutions. I am constantly learning and evolving, always striving to stay ahead of industry trends and deliver top-notch results. My commitment to excellence and my passion for technology make me a valuable asset to any team.
+              In my two years of coding, I have gained expertise in a wide range of technologies, including React, JavaScript, Next.js, HTML, CSS, Tailwind, Bootstrap, REST API, and Node.js. I have successfully completed numerous projects that showcase my skills and dedication to quality. My accomplishments include developing dynamic web applications, creating responsive and user-friendly interfaces, and implementing efficient back-end solutions. I am constantly learning and evolving, always striving to stay ahead of industry trends and deliver top-notch results. My commitment to excellence and my passion for technology make me a valuable asset to any team.
             </p>
           </div>
     </div>
