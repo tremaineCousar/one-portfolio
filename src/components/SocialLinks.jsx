@@ -44,7 +44,7 @@ export const SocialLinks = () => {
 					<BsFillPersonLinesFill size={30} />
 				</>
 			),
-			href: "/Tremaine_Cousar (2).pdf",
+			href: "/Tremaine_Cousar(2).pdf",
 			style: "rounded-br-md",
 		},
 	];
